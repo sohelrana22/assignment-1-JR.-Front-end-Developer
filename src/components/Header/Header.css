@@ -1,0 +1,28 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.tp{
+    font-size: 18px;
+}
+.top{
+    color: green;
+}
+.active{
+    color: #FF6F00;
+}
+.header-top{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    background-color: #FF6F00;
+    border: none;
+    border-radius: 20px;
+}
+.btn-1{
+    background-color: #F2F2F2;
+    color: black;
+    border: none;
+    border-radius: 20px;
+}

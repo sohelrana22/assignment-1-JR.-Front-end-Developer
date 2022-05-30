@@ -1,0 +1,41 @@
+.footer-head{
+    color: #644F9C;
+}
+.instagram{
+    color: #f74c90;
+}
+.facebook{
+    color: #087aed;
+}
+.youtube{
+    color: #f12323;
+}
+.footer-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+h4{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+h5{
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.footer-container{
+    max-width: 1170px;
+    margin: auto;
+}
+.footer{
+    padding: 70px 0;
+}
