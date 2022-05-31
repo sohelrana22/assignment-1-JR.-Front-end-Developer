@@ -5,7 +5,7 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div>
+        <div className='header'>
             <div className='head'>
             <img src={logo} width="60" height="50" className="d-inline-block m-3 align-top" alt="React Bootstrap logo"/>
             <p className='tp m-2'><span className='top'>BN</span> / EN</p>
